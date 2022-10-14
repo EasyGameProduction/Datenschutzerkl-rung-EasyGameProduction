@@ -3,7 +3,7 @@ Datenschutzerklärung für Spiele des Entwicklers EasyGameProduction
 
 
 
-Privacy Policy
+Privacy Policy<br>
 When you download and launch one of our games or visit our website, we gather information about you. This information can in some cases be personally identifiable. This document explains the way we collect and use this information. If you have any questions or comments, you can mail us directly at sup.easygameproduction@gmail.com, or get in touch via the contact information below.
 
 The information we collect
